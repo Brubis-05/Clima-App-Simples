@@ -20,7 +20,9 @@ Um aplicativo web simples para verificar a previsão do tempo em tempo real de q
 - OpenWeatherMap API
   
 ## Site
-![](https://github.com/Brubis-05/Clima-App-Simples/blob/main/clima-do-tempo/src/imgs/Clima%20do%20Tempo%20(Simples).mp4)
+![](https://github.com/Brubis-05/Clima-App-Simples/blob/main/clima-do-tempo/src/imgs/clima-app-simples-1.jpeg)
+
+![](https://github.com/Brubis-05/Clima-App-Simples/blob/main/clima-do-tempo/src/imgs/clima-app-simples-2.jpeg)
 
 
 ## Como usar
