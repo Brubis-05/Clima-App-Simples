@@ -31,7 +31,8 @@ Um aplicativo web simples para verificar a previsão do tempo em tempo real de q
 
 
 ## Contribuições
-Contribuições são bem-vindas! Abra um issue ou faça um pull request.
+Contribuições são bem-vindas!
+Abra um issue ou faça um pull request.
 
 
 ## [License](https://github.com/Brubis-05/Clima-App-Simples?tab=MIT-1-ov-file)
