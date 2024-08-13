@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+body {
+    background-image: url('imgs/Paisagem.jpg');
+    /*url("https://source.unsplash.com/1600x900/?landscape");*/
+    
+    background-size: cover; /*arruma a imagem para nao ficar com varias imagens quando diminui ou aumenta o zoom da tela*/
+    height: 100vh; /*altura*/
+    width: 100vw; /*largura*/
+    display: flex; /*permite usar o aling-items e o justify-content para alinar os itens na pagina*/
+    align-items: center; /*alinha de cima e embaixo*/
+    justify-content: center; /*alinha de um lado pro outro*/
+    
+}
+
+.caixa-maior{
+    background-color: #000000;
+    opacity: 0.8; /*transparencia*/
+    width: 50%; /*largura*/
+    max-width: 450px; /*largura maxima*/
+    border-radius: 25px; /*arrendondar borda*/
+    padding: 20px;
+
+}
+
+.lupa{
+    height: 20px;
+    width: 20px;
+}
+
+button {
+    border: none;
+    padding: 10px;
+    background-color: #7c7c7c2b;
+    cursor: pointer; /*mudar o icone do mouse para a mãozinha quando passar o mause em cima do botão*/
+    border-radius: 50%;
+    float: right; /*float: flutuar*/
+    
+}
+
+button:hover {
+    background-color: #7c7c7c;
+}
+
+input {
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #7c7c7c2b;
+    color: #ffff;
+    width: calc(100%-100px);
+    font-size: 24px;
+}
+
+
+.caixa-media {
+    margin-top: 20px; /*margem em cima*/
+}
+
+.cidade {
+    color: white;
+    font-size: 28px;
+}
+
+.temperatura {
+    color: white;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.umidade {
+    color: white;
+    margin-top: 30px;
+}
